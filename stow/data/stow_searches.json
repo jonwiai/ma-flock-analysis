@@ -1,0 +1,2461 @@
+{
+  "pdf_audit_records": [
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 05:53:48 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 05:54:46 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 05:54:58 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "12/25/2024",
+      "search_time": "1/9/2025, 05:56:12 PM UTC",
+      "search_type": "lookup",
+      "reason": "BN"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "5248",
+      "time_frame_start": "12/10/2024",
+      "search_time": "1/9/2025, 05:56:26 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 05:57:58 PM UTC",
+      "search_type": "search",
+      "reason": "BN"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 05:58:09 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 05:59:11 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 05:59:18 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5294",
+      "time_frame_start": "12/22/2024",
+      "search_time": "1/21/2025, 03:50:04 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5294",
+      "time_frame_start": "12/22/2024",
+      "search_time": "1/21/2025, 03:56:57 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 06:18:57 PM UTC",
+      "search_type": "search",
+      "reason": "18te62"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 06:30:56 PM UTC",
+      "search_type": "search",
+      "reason": "25-21-OF MPD"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 06:31:10 PM UTC",
+      "search_type": "search",
+      "reason": "48hk41"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/8/2025",
+      "search_time": "1/9/2025, 06:32:14 PM UTC",
+      "search_type": "search",
+      "reason": "test"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "1/14/2025",
+      "search_time": "1/21/2025, 04:35:10 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "1/14/2025",
+      "search_time": "1/21/2025, 04:35:12 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "12/22/2024",
+      "search_time": "1/21/2025, 04:35:49 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 07:01:13 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "5248",
+      "time_frame_start": "12/10/2024",
+      "search_time": "1/9/2025, 07:01:51 PM UTC",
+      "search_type": "lookup",
+      "reason": "J497"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 07:21:00 PM UTC",
+      "search_type": "search",
+      "reason": "Mpd 25-21-of"
+    },
+    {
+      "page": 14,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "1/9/2025",
+      "search_time": "1/9/2025, 07:21:17 PM UTC",
+      "search_type": "search",
+      "reason": "J497"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "1/11/2025",
+      "search_time": "1/18/2025, 01:17:33 PM UTC",
+      "search_type": "search",
+      "reason": "Mpd 25-21-of"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "1/3/2025",
+      "search_time": "1/18/2025, 01:20:46 PM UTC",
+      "search_type": "lookup",
+      "reason": "J497"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5283",
+      "time_frame_start": "1/3/2025",
+      "search_time": "1/18/2025, 01:21:01 PM UTC",
+      "search_type": "lookup",
+      "reason": "Mpd 25-21-of"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5283",
+      "time_frame_start": "1/3/2025",
+      "search_time": "1/18/2025, 01:22:29 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5283",
+      "time_frame_start": "1/3/2025",
+      "search_time": "1/18/2025, 01:24:41 PM UTC",
+      "search_type": "lookup",
+      "reason": "BN"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5283",
+      "time_frame_start": "1/3/2025",
+      "search_time": "1/18/2025, 01:24:59 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "1/11/2025",
+      "search_time": "1/18/2025, 01:28:50 PM UTC",
+      "search_type": "search",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "1/3/2025",
+      "search_time": "1/18/2025, 01:33:53 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-628"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5283",
+      "time_frame_start": "12/19/2024",
+      "search_time": "1/18/2025, 01:34:13 PM UTC",
+      "search_type": "lookup",
+      "reason": "Assist MPD 25-21-OF"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5283",
+      "time_frame_start": "12/19/2024",
+      "search_time": "1/18/2025, 01:36:53 PM UTC",
+      "search_type": "lookup",
+      "reason": "EVJX76"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "5283",
+      "time_frame_start": "12/19/2024",
+      "search_time": "1/18/2025, 01:37:30 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-21-OF MPD"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "1/11/2025",
+      "search_time": "1/18/2025, 03:19:49 PM UTC",
+      "search_type": "search",
+      "reason": "EVJX76"
+    },
+    {
+      "page": 14,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "1/11/2025",
+      "search_time": "1/18/2025, 03:39:42 PM UTC",
+      "search_type": "search",
+      "reason": "25-21-OF MPD"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "12/12/2024",
+      "search_time": "12/12/2024, 04:17:39 PM UTC",
+      "search_type": "search",
+      "reason": "Solicitors Hudson rd"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "12/16/2024",
+      "search_time": "12/16/2024, 12:23:34 PM UTC",
+      "search_type": "search",
+      "reason": "24-21736"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "12/16/2024",
+      "search_time": "12/16/2024, 12:39:18 PM UTC",
+      "search_type": "search",
+      "reason": "24-21736"
+    },
+    {
+      "page": 15,
+      "officer": "Jon Butler",
+      "networks_searched": "1",
+      "time_frame_start": "12/13/2024",
+      "search_time": "12/13/2024, 06:36:32 PM UTC",
+      "search_type": "search",
+      "reason": "Suspicous activity"
+    },
+    {
+      "page": 15,
+      "officer": "Jon Butler",
+      "networks_searched": "1",
+      "time_frame_start": "12/13/2024",
+      "search_time": "12/13/2024, 06:36:54 PM UTC",
+      "search_type": "search",
+      "reason": "Suspicous activity"
+    },
+    {
+      "page": 15,
+      "officer": "Jon Butler",
+      "networks_searched": "1",
+      "time_frame_start": "12/13/2024",
+      "search_time": "12/13/2024, 06:38:00 PM UTC",
+      "search_type": "search",
+      "reason": "Suspicous activity"
+    },
+    {
+      "page": 15,
+      "officer": "Jon Butler",
+      "networks_searched": "1",
+      "time_frame_start": "12/13/2024",
+      "search_time": "12/13/2024, 06:38:06 PM UTC",
+      "search_type": "search",
+      "reason": "Suspicous activity"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "12/1/2024",
+      "search_time": "12/14/2024, 02:17:30 PM UTC",
+      "search_type": "search",
+      "reason": "24-21541"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "11/29/2024",
+      "search_time": "12/14/2024, 02:17:57 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-21541"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "4260",
+      "time_frame_start": "11/14/2024",
+      "search_time": "12/14/2024, 02:18:12 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-21541"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "4260",
+      "time_frame_start": "11/14/2024",
+      "search_time": "12/14/2024, 02:19:00 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-21541"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "4260",
+      "time_frame_start": "11/14/2024",
+      "search_time": "12/14/2024, 02:21:25 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-21541"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "12/14/2024",
+      "search_time": "12/14/2024, 02:23:28 PM UTC",
+      "search_type": "search",
+      "reason": "training"
+    },
+    {
+      "page": 15,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "12/14/2024",
+      "search_time": "12/14/2024, 02:24:02 PM UTC",
+      "search_type": "search",
+      "reason": "training"
+    },
+    {
+      "page": 471,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "2/13/2025",
+      "search_time": "2/14/2025, 03:00:10 PM UTC",
+      "search_type": "search",
+      "reason": "25-26-of"
+    },
+    {
+      "page": 471,
+      "officer": "Jason Rogers",
+      "networks_searched": "5453",
+      "time_frame_start": "1/30/2025",
+      "search_time": "3/1/2025, 05:44:56 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-6-ar"
+    },
+    {
+      "page": 471,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "2/13/2025",
+      "search_time": "2/14/2025, 04:14:25 PM UTC",
+      "search_type": "search",
+      "reason": "25-26-of"
+    },
+    {
+      "page": 471,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/3/2025, 06:39:11 PM UTC",
+      "search_type": "search",
+      "reason": "25-4365"
+    },
+    {
+      "page": 471,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/3/2025, 06:42:03 PM UTC",
+      "search_type": "search",
+      "reason": "25-4365"
+    },
+    {
+      "page": 471,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/3/2025, 06:42:51 PM UTC",
+      "search_type": "search",
+      "reason": "25-4365"
+    },
+    {
+      "page": 485,
+      "officer": "Cassandra Scott",
+      "networks_searched": "1",
+      "time_frame_start": "8/16/2024",
+      "search_time": "8/23/2024, 03:41:39 AM UTC",
+      "search_type": "search",
+      "reason": "Case #"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/20/2024",
+      "search_time": "8/21/2024, 01:12:41 PM UTC",
+      "search_type": "search",
+      "reason": "24-180-OF"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/20/2024",
+      "search_time": "8/21/2024, 01:13:06 PM UTC",
+      "search_type": "search",
+      "reason": "24-13174"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/20/2024",
+      "search_time": "8/21/2024, 01:13:13 PM UTC",
+      "search_type": "search",
+      "reason": "24-13174"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/20/2024",
+      "search_time": "8/21/2024, 01:13:39 PM UTC",
+      "search_type": "search",
+      "reason": "24-13174"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/20/2024",
+      "search_time": "8/21/2024, 01:14:02 PM UTC",
+      "search_type": "search",
+      "reason": "24-13174"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/20/2024",
+      "search_time": "8/21/2024, 01:14:14 PM UTC",
+      "search_type": "search",
+      "reason": "24-13174"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/12/2024",
+      "search_time": "8/13/2024, 10:48:53 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-13174"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/12/2024",
+      "search_time": "8/13/2024, 10:54:10 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-12709"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/12/2024",
+      "search_time": "8/13/2024, 10:55:22 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-12709"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/12/2024",
+      "search_time": "8/13/2024, 11:47:02 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-12709"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "7/14/2024",
+      "search_time": "8/13/2024, 11:50:43 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-12709"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "4569",
+      "time_frame_start": "7/14/2024",
+      "search_time": "8/13/2024, 11:51:11 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-12709"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "4569",
+      "time_frame_start": "7/14/2024",
+      "search_time": "8/13/2024, 11:53:28 PM UTC",
+      "search_type": "lookup",
+      "reason": "24-12709"
+    },
+    {
+      "page": 485,
+      "officer": "Gabe Lopez",
+      "networks_searched": "1",
+      "time_frame_start": "8/23/2024",
+      "search_time": "8/23/2024, 06:01:13 PM UTC",
+      "search_type": "search",
+      "reason": "24-12709"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/22/2024",
+      "search_time": "8/22/2024, 02:38:43 PM UTC",
+      "search_type": "search",
+      "reason": "24-1368"
+    },
+    {
+      "page": 485,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "8/22/2024",
+      "search_time": "8/22/2024, 02:39:05 PM UTC",
+      "search_type": "search",
+      "reason": "24-13297"
+    },
+    {
+      "page": 486,
+      "officer": "Shawn Marques",
+      "networks_searched": "1",
+      "time_frame_start": "6/24/2025",
+      "search_time": "6/24/2025, 05:27:32 PM UTC",
+      "search_type": "search",
+      "reason": "5vs565"
+    },
+    {
+      "page": 486,
+      "officer": "Shawn Marques",
+      "networks_searched": "1",
+      "time_frame_start": "6/24/2025",
+      "search_time": "6/24/2025, 05:29:40 PM UTC",
+      "search_type": "search",
+      "reason": "3dgc17"
+    },
+    {
+      "page": 486,
+      "officer": "Shawn Marques",
+      "networks_searched": "1",
+      "time_frame_start": "6/23/2025",
+      "search_time": "6/24/2025, 05:29:50 PM UTC",
+      "search_type": "search",
+      "reason": "3dgc17"
+    },
+    {
+      "page": 486,
+      "officer": "Shawn Marques",
+      "networks_searched": "1",
+      "time_frame_start": "6/23/2025",
+      "search_time": "6/24/2025, 05:29:53 PM UTC",
+      "search_type": "search",
+      "reason": "3dgc17"
+    },
+    {
+      "page": 486,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "5/31/2025",
+      "search_time": "6/2/2025, 02:45:44 PM UTC",
+      "search_type": "search",
+      "reason": "concord fed-ex theft"
+    },
+    {
+      "page": 486,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "5/31/2025",
+      "search_time": "6/2/2025, 02:51:40 PM UTC",
+      "search_type": "search",
+      "reason": "concord fed-ex theft"
+    },
+    {
+      "page": 486,
+      "officer": "Laurel Brazao",
+      "networks_searched": "1",
+      "time_frame_start": "5/31/2025",
+      "search_time": "6/15/2025, 09:48:45 PM UTC",
+      "search_type": "lookup",
+      "reason": "test"
+    },
+    {
+      "page": 486,
+      "officer": "Laurel Brazao",
+      "networks_searched": "1",
+      "time_frame_start": "6/15/2025",
+      "search_time": "6/15/2025, 09:49:52 PM UTC",
+      "search_type": "search",
+      "reason": "25-10546"
+    },
+    {
+      "page": 486,
+      "officer": "Laurel Brazao",
+      "networks_searched": "1",
+      "time_frame_start": "6/15/2025",
+      "search_time": "6/15/2025, 09:50:05 PM UTC",
+      "search_type": "search",
+      "reason": "25-10546"
+    },
+    {
+      "page": 486,
+      "officer": "Laurel Brazao",
+      "networks_searched": "1",
+      "time_frame_start": "6/15/2025",
+      "search_time": "6/15/2025, 09:50:51 PM UTC",
+      "search_type": "search",
+      "reason": "25-10546"
+    },
+    {
+      "page": 486,
+      "officer": "Laurel Brazao",
+      "networks_searched": "1",
+      "time_frame_start": "6/15/2025",
+      "search_time": "6/15/2025, 09:50:58 PM UTC",
+      "search_type": "search",
+      "reason": "25-10546"
+    },
+    {
+      "page": 486,
+      "officer": "Laurel Brazao",
+      "networks_searched": "1",
+      "time_frame_start": "6/15/2025",
+      "search_time": "6/15/2025, 09:51:56 PM UTC",
+      "search_type": "search",
+      "reason": "25-10546"
+    },
+    {
+      "page": 486,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "6/15/2025",
+      "search_time": "6/16/2025, 02:07:16 PM UTC",
+      "search_type": "search",
+      "reason": "stolen bike"
+    },
+    {
+      "page": 486,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "5/18/2025",
+      "search_time": "6/17/2025, 05:25:11 PM UTC",
+      "search_type": "search",
+      "reason": "25-10677"
+    },
+    {
+      "page": 486,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "6/17/2025",
+      "search_time": "6/17/2025, 05:25:27 PM UTC",
+      "search_type": "search",
+      "reason": "25-10677"
+    },
+    {
+      "page": 486,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "6/17/2025",
+      "search_time": "6/17/2025, 05:25:30 PM UTC",
+      "search_type": "search",
+      "reason": "25-10677"
+    },
+    {
+      "page": 486,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "6/17/2025",
+      "search_time": "6/17/2025, 05:25:30 PM UTC",
+      "search_type": "search",
+      "reason": "25-10677"
+    },
+    {
+      "page": 487,
+      "officer": "Cassandra Scott",
+      "networks_searched": "1",
+      "time_frame_start": "7/10/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-150-OF"
+    },
+    {
+      "page": 487,
+      "officer": "Gabe Lopez",
+      "networks_searched": "1",
+      "time_frame_start": "7/2/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "test"
+    },
+    {
+      "page": 487,
+      "officer": "Gabe Lopez",
+      "networks_searched": "1",
+      "time_frame_start": "7/2/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "test"
+    },
+    {
+      "page": 487,
+      "officer": "Gabe Lopez",
+      "networks_searched": "1",
+      "time_frame_start": "7/2/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "test"
+    },
+    {
+      "page": 487,
+      "officer": "Gabe Lopez",
+      "networks_searched": "1",
+      "time_frame_start": "7/2/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "test"
+    },
+    {
+      "page": 487,
+      "officer": "Gabe Lopez",
+      "networks_searched": "1",
+      "time_frame_start": "7/2/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "test"
+    },
+    {
+      "page": 487,
+      "officer": "Gabe Lopez",
+      "networks_searched": "1",
+      "time_frame_start": "7/2/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "test"
+    },
+    {
+      "page": 487,
+      "officer": "Gabe Lopez",
+      "networks_searched": "1",
+      "time_frame_start": "7/2/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "test"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/24/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "west acton speeder"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/24/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "west acton speeder"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/24/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "west acton speeder"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/24/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "west acton speeder"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/24/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "west acton speeder"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/19/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/1/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "7/1/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "7/1/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "7/1/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "7/1/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "7/1/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4447",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4447",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "Image Download"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "Image Download"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "7/1/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Christopher Kusz",
+      "networks_searched": "1",
+      "time_frame_start": "7/3/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "investigative-Pc to arrest"
+    },
+    {
+      "page": 487,
+      "officer": "Christopher Kusz",
+      "networks_searched": "1",
+      "time_frame_start": "7/3/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "Investigative-PC arrest"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "Image Download"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4448",
+      "time_frame_start": "6/22/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "Image Download"
+    },
+    {
+      "page": 487,
+      "officer": "Christopher Kusz",
+      "networks_searched": "1",
+      "time_frame_start": "7/3/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "Investigative-PC arrest (out of town domestic)"
+    },
+    {
+      "page": 487,
+      "officer": "Christopher Kusz",
+      "networks_searched": "1",
+      "time_frame_start": "7/3/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "Investigative-PC arrest (out of town domestic)"
+    },
+    {
+      "page": 487,
+      "officer": "Christopher Kusz",
+      "networks_searched": "1",
+      "time_frame_start": "7/3/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "Investigative-PC arrest (out of town domestic)"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/14/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-155-OF"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "6/25/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "6/25/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 487,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "7/1/2024",
+      "search_time": "",
+      "search_type": "",
+      "reason": "24-11079"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "5453",
+      "time_frame_start": "1/30/2025",
+      "search_time": "3/1/2025, 05:44:56 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-6-ar"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/5/2025, 04:51:38 PM UTC",
+      "search_type": "search",
+      "reason": "25-38-of"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/5/2025, 04:57:15 PM UTC",
+      "search_type": "search",
+      "reason": "25-38-of"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/10/2025",
+      "search_time": "3/11/2025, 11:56:28 AM UTC",
+      "search_type": "search",
+      "reason": "Warrant Murphy"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/10/2025",
+      "search_time": "3/11/2025, 11:56:46 AM UTC",
+      "search_type": "search",
+      "reason": "Warrant Murphy"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/24/2025",
+      "search_time": "3/31/2025, 10:16:52 PM UTC",
+      "search_type": "lookup",
+      "reason": "Missing plate"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "5583",
+      "time_frame_start": "3/16/2025",
+      "search_time": "3/31/2025, 10:17:45 PM UTC",
+      "search_type": "lookup",
+      "reason": "Missing plate"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "5534",
+      "time_frame_start": "2/12/2025",
+      "search_time": "3/14/2025, 03:20:05 PM UTC",
+      "search_type": "search",
+      "reason": "Missing Person"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "5534",
+      "time_frame_start": "2/12/2025",
+      "search_time": "3/14/2025, 03:26:03 PM UTC",
+      "search_type": "search",
+      "reason": "Missing Person"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/3/2025, 06:39:11 PM UTC",
+      "search_type": "search",
+      "reason": "25-4365"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/3/2025, 06:42:03 PM UTC",
+      "search_type": "search",
+      "reason": "25-4365"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/3/2025, 06:42:51 PM UTC",
+      "search_type": "search",
+      "reason": "25-4365"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/10/2025, 11:54:23 AM UTC",
+      "search_type": "search",
+      "reason": "Maynard Domestic"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/3/2025",
+      "search_time": "3/10/2025, 11:54:32 AM UTC",
+      "search_type": "search",
+      "reason": "Maynard Domestic"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/9/2025",
+      "search_time": "3/10/2025, 11:54:59 AM UTC",
+      "search_type": "search",
+      "reason": "Maynard Domestic"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/9/2025",
+      "search_time": "3/10/2025, 11:55:03 AM UTC",
+      "search_type": "search",
+      "reason": "Maynard Domestic"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/9/2025",
+      "search_time": "3/10/2025, 11:55:24 AM UTC",
+      "search_type": "search",
+      "reason": "Maynard Domestic"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "95",
+      "time_frame_start": "3/9/2025",
+      "search_time": "3/10/2025, 11:56:13 AM UTC",
+      "search_type": "search",
+      "reason": "Maynard Domestic"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "2/27/2025",
+      "search_time": "3/6/2025, 08:29:14 PM UTC",
+      "search_type": "lookup",
+      "reason": "Missing plate"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "2/27/2025",
+      "search_time": "3/6/2025, 08:30:27 PM UTC",
+      "search_type": "lookup",
+      "reason": "Missing plate"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/15/2025",
+      "search_time": "3/18/2025, 06:28:56 PM UTC",
+      "search_type": "search",
+      "reason": "suspect vehicle"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/15/2025",
+      "search_time": "3/18/2025, 06:29:06 PM UTC",
+      "search_type": "search",
+      "reason": "suspect vehicle"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/15/2025",
+      "search_time": "3/18/2025, 06:31:01 PM UTC",
+      "search_type": "search",
+      "reason": "suspect vehicle"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/15/2025",
+      "search_time": "3/18/2025, 06:31:17 PM UTC",
+      "search_type": "search",
+      "reason": "suspect vehicle"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/11/2025",
+      "search_time": "3/18/2025, 06:37:36 PM UTC",
+      "search_type": "search",
+      "reason": "suspect vehicle"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/27/2025",
+      "search_time": "3/29/2025, 04:06:40 PM UTC",
+      "search_type": "search",
+      "reason": "lexingtonpd hit"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/26/2025",
+      "search_time": "3/29/2025, 04:09:20 PM UTC",
+      "search_type": "search",
+      "reason": "lexington pd hit"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/26/2025",
+      "search_time": "3/29/2025, 04:12:21 PM UTC",
+      "search_type": "search",
+      "reason": "lexington pd hit"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "5580",
+      "time_frame_start": "2/27/2025",
+      "search_time": "3/29/2025, 04:13:40 PM UTC",
+      "search_type": "lookup",
+      "reason": "lexpd"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "5556",
+      "time_frame_start": "3/18/2025",
+      "search_time": "3/25/2025, 12:35:40 PM UTC",
+      "search_type": "lookup",
+      "reason": "Missing plate"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/10/2025",
+      "search_time": "3/10/2025, 07:03:42 PM UTC",
+      "search_type": "search",
+      "reason": "Erratic Operator"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/10/2025",
+      "search_time": "3/10/2025, 07:03:47 PM UTC",
+      "search_type": "search",
+      "reason": "Erratic Operator"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/10/2025",
+      "search_time": "3/10/2025, 07:04:12 PM UTC",
+      "search_type": "search",
+      "reason": "Erratic Operator"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/10/2025",
+      "search_time": "3/10/2025, 07:05:12 PM UTC",
+      "search_type": "search",
+      "reason": "Erratic Operator"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/10/2025",
+      "search_time": "3/10/2025, 07:06:37 PM UTC",
+      "search_type": "search",
+      "reason": "Erratic Operator"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/10/2025",
+      "search_time": "3/10/2025, 07:06:58 PM UTC",
+      "search_type": "search",
+      "reason": "Erratic Operator"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/17/2025",
+      "search_time": "3/18/2025, 10:48:56 PM UTC",
+      "search_type": "search",
+      "reason": "Berlin PD investigation"
+    },
+    {
+      "page": 506,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "3/9/2025",
+      "search_time": "3/10/2025, 07:58:04 PM UTC",
+      "search_type": "search",
+      "reason": "Warrant Murphy"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/12/2025",
+      "search_time": "3/19/2025, 03:50:52 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-47-of"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/18/2025",
+      "search_time": "3/19/2025, 03:55:03 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-47-of"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "88",
+      "time_frame_start": "3/18/2025",
+      "search_time": "3/19/2025, 03:56:04 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-47-of"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "88",
+      "time_frame_start": "3/12/2025",
+      "search_time": "3/19/2025, 03:56:16 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-47-of"
+    },
+    {
+      "page": 506,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/13/2025",
+      "search_time": "3/19/2025, 04:46:06 PM UTC",
+      "search_type": "search",
+      "reason": "25-47-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/9/2025",
+      "search_time": "4/12/2025, 12:36:21 PM UTC",
+      "search_type": "search",
+      "reason": "westford case"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "5694",
+      "time_frame_start": "3/25/2025",
+      "search_time": "4/24/2025, 11:49:00 AM UTC",
+      "search_type": "lookup",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "5694",
+      "time_frame_start": "3/25/2025",
+      "search_time": "4/24/2025, 11:52:51 AM UTC",
+      "search_type": "lookup",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "5694",
+      "time_frame_start": "3/25/2025",
+      "search_time": "4/24/2025, 11:53:22 AM UTC",
+      "search_type": "lookup",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/25/2025",
+      "search_time": "4/24/2025, 11:58:46 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/25/2025",
+      "search_time": "4/24/2025, 11:58:57 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/25/2025",
+      "search_time": "4/24/2025, 11:59:16 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/25/2025",
+      "search_time": "4/24/2025, 11:59:34 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/25/2025",
+      "search_time": "4/24/2025, 12:00:35 PM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:25:04 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "5708",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:25:27 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:26:39 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:26:47 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:27:06 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:27:15 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:27:56 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:28:01 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:28:26 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:28:43 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:29:30 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:29:40 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 507,
+      "officer": "Jason Rogers",
+      "networks_searched": "5708",
+      "time_frame_start": "3/29/2025",
+      "search_time": "4/28/2025, 11:30:48 AM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 508,
+      "officer": "Josh Barriere",
+      "networks_searched": "1",
+      "time_frame_start": "5/16/2025",
+      "search_time": "5/16/2025, 07:06:23 AM UTC",
+      "search_type": "search",
+      "reason": "Suspicious vehicle"
+    },
+    {
+      "page": 508,
+      "officer": "Josh Barriere",
+      "networks_searched": "1",
+      "time_frame_start": "5/16/2025",
+      "search_time": "5/16/2025, 07:14:18 AM UTC",
+      "search_type": "search",
+      "reason": "Suspicious MV"
+    },
+    {
+      "page": 508,
+      "officer": "Josh Barriere",
+      "networks_searched": "1",
+      "time_frame_start": "5/15/2025",
+      "search_time": "5/16/2025, 07:15:21 AM UTC",
+      "search_type": "search",
+      "reason": "Suspicious MV"
+    },
+    {
+      "page": 508,
+      "officer": "Josh Barriere",
+      "networks_searched": "100",
+      "time_frame_start": "5/16/2025",
+      "search_time": "5/16/2025, 07:18:18 AM UTC",
+      "search_type": "search",
+      "reason": "Suspicious MV"
+    },
+    {
+      "page": 508,
+      "officer": "Josh Barriere",
+      "networks_searched": "100",
+      "time_frame_start": "5/16/2025",
+      "search_time": "5/16/2025, 07:18:55 AM UTC",
+      "search_type": "search",
+      "reason": "Suspicious MV"
+    },
+    {
+      "page": 508,
+      "officer": "Josh Barriere",
+      "networks_searched": "100",
+      "time_frame_start": "5/16/2025",
+      "search_time": "5/16/2025, 07:19:27 AM UTC",
+      "search_type": "search",
+      "reason": "Suspicious MV"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "5/1/2025",
+      "search_time": "5/6/2025, 03:08:53 PM UTC",
+      "search_type": "search",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "5/3/2025",
+      "search_time": "5/3/2025, 03:01:59 PM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5723",
+      "time_frame_start": "4/3/2025",
+      "search_time": "5/3/2025, 03:02:41 PM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5723",
+      "time_frame_start": "4/3/2025",
+      "search_time": "5/3/2025, 03:02:56 PM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5723",
+      "time_frame_start": "4/18/2025",
+      "search_time": "5/3/2025, 03:04:15 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5723",
+      "time_frame_start": "4/3/2025",
+      "search_time": "5/3/2025, 03:04:56 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "5/1/2025",
+      "search_time": "5/3/2025, 03:05:41 PM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/4/2025",
+      "search_time": "5/3/2025, 03:08:15 PM UTC",
+      "search_type": "search",
+      "reason": "25-67-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "5/20/2025",
+      "search_time": "5/21/2025, 04:17:08 PM UTC",
+      "search_type": "search",
+      "reason": "25-90-OF"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5743",
+      "time_frame_start": "4/24/2025",
+      "search_time": "5/24/2025, 02:15:22 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-20-ar"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5746",
+      "time_frame_start": "4/9/2025",
+      "search_time": "5/9/2025, 05:31:06 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5746",
+      "time_frame_start": "4/9/2025",
+      "search_time": "5/9/2025, 05:31:39 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/22/2025",
+      "search_time": "5/7/2025, 05:16:27 PM UTC",
+      "search_type": "search",
+      "reason": "Maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/30/2025",
+      "search_time": "5/7/2025, 05:19:26 PM UTC",
+      "search_type": "search",
+      "reason": "Maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/30/2025",
+      "search_time": "5/7/2025, 05:19:49 PM UTC",
+      "search_type": "search",
+      "reason": "Maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/8/2025",
+      "search_time": "5/7/2025, 05:24:34 PM UTC",
+      "search_type": "search",
+      "reason": "maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/8/2025",
+      "search_time": "5/7/2025, 05:24:49 PM UTC",
+      "search_type": "search",
+      "reason": "maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5738",
+      "time_frame_start": "4/7/2025",
+      "search_time": "5/7/2025, 05:26:46 PM UTC",
+      "search_type": "lookup",
+      "reason": "maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5738",
+      "time_frame_start": "4/7/2025",
+      "search_time": "5/7/2025, 05:30:10 PM UTC",
+      "search_type": "lookup",
+      "reason": "maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5738",
+      "time_frame_start": "4/7/2025",
+      "search_time": "5/7/2025, 05:32:03 PM UTC",
+      "search_type": "lookup",
+      "reason": "maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5747",
+      "time_frame_start": "4/9/2025",
+      "search_time": "5/9/2025, 05:46:27 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5738",
+      "time_frame_start": "4/7/2025",
+      "search_time": "5/7/2025, 05:38:01 PM UTC",
+      "search_type": "lookup",
+      "reason": "maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5738",
+      "time_frame_start": "4/7/2025",
+      "search_time": "5/7/2025, 05:40:20 PM UTC",
+      "search_type": "lookup",
+      "reason": "maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5738",
+      "time_frame_start": "4/7/2025",
+      "search_time": "5/7/2025, 05:52:40 PM UTC",
+      "search_type": "lookup",
+      "reason": "maynard"
+    },
+    {
+      "page": 508,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "4/15/2025",
+      "search_time": "5/15/2025, 12:41:52 PM UTC",
+      "search_type": "search",
+      "reason": "25-8775"
+    },
+    {
+      "page": 508,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "4/15/2025",
+      "search_time": "5/15/2025, 12:42:16 PM UTC",
+      "search_type": "search",
+      "reason": "25-8775"
+    },
+    {
+      "page": 508,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "4/15/2025",
+      "search_time": "5/15/2025, 12:43:28 PM UTC",
+      "search_type": "search",
+      "reason": "25-8775"
+    },
+    {
+      "page": 508,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "4/15/2025",
+      "search_time": "5/15/2025, 12:55:44 PM UTC",
+      "search_type": "search",
+      "reason": "25-8775"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/21/2025",
+      "search_time": "5/6/2025, 03:15:24 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5727",
+      "time_frame_start": "4/6/2025",
+      "search_time": "5/6/2025, 03:15:43 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/29/2025",
+      "search_time": "5/6/2025, 03:23:06 PM UTC",
+      "search_type": "search",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5745",
+      "time_frame_start": "5/2/2025",
+      "search_time": "5/9/2025, 12:37:06 PM UTC",
+      "search_type": "lookup",
+      "reason": "maynard assist"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "5/1/2025",
+      "search_time": "5/6/2025, 03:36:08 PM UTC",
+      "search_type": "search",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "4/21/2025",
+      "search_time": "5/6/2025, 03:40:09 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "5727",
+      "time_frame_start": "4/6/2025",
+      "search_time": "5/6/2025, 03:40:19 PM UTC",
+      "search_type": "lookup",
+      "reason": "25-78-of"
+    },
+    {
+      "page": 508,
+      "officer": "Jason Rogers",
+      "networks_searched": "1",
+      "time_frame_start": "5/20/2025",
+      "search_time": "5/21/2025, 04:25:36 PM UTC",
+      "search_type": "search",
+      "reason": "25-90-of"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "6/17/2024",
+      "search_time": "6/21/2024, 03:32:50 PM UTC",
+      "search_type": "search",
+      "reason": "Case #"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "6/17/2024",
+      "search_time": "6/21/2024, 03:33:22 PM UTC",
+      "search_type": "search",
+      "reason": "test"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "6/21/2024",
+      "search_time": "6/21/2024, 03:34:52 PM UTC",
+      "search_type": "search",
+      "reason": "test"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "6/21/2024",
+      "search_time": "6/21/2024, 03:35:14 PM UTC",
+      "search_type": "search",
+      "reason": "test"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "4",
+      "time_frame_start": "6/21/2024",
+      "search_time": "6/21/2024, 03:36:12 PM UTC",
+      "search_type": "search",
+      "reason": "test"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "6/27/2024",
+      "search_time": "6/28/2024, 08:06:43 PM UTC",
+      "search_type": "lookup",
+      "reason": "test"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "6/14/2024",
+      "search_time": "6/28/2024, 08:07:16 PM UTC",
+      "search_type": "lookup",
+      "reason": "Test"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "6/21/2024",
+      "search_time": "6/22/2024, 04:08:20 PM UTC",
+      "search_type": "lookup",
+      "reason": "Test"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "64",
+      "time_frame_start": "6/21/2024",
+      "search_time": "6/22/2024, 04:11:55 PM UTC",
+      "search_type": "lookup",
+      "reason": "Gun invest"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "6/15/2024",
+      "search_time": "6/22/2024, 04:12:12 PM UTC",
+      "search_type": "lookup",
+      "reason": "Gun invest"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "64",
+      "time_frame_start": "6/15/2024",
+      "search_time": "6/22/2024, 04:12:15 PM UTC",
+      "search_type": "lookup",
+      "reason": "Gun invest"
+    },
+    {
+      "page": 512,
+      "officer": "Michael Sallese",
+      "networks_searched": "1",
+      "time_frame_start": "5/23/2024",
+      "search_time": "6/22/2024, 04:12:23 PM UTC",
+      "search_type": "lookup",
+      "reason": "Gun invest"
+    }
+  ],
+  "csv_audit_records": [
+    {
+      "id": "344e85be-c46d-433b-bc69-dd097c852909",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-10-31 16:19:44.000",
+      "cameraCount": "3",
+      "reason": "maynard"
+    },
+    {
+      "id": "dd96e578-b0b9-45af-ba56-cc3ce8715d6e",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-10-31 16:40:12.476",
+      "cameraCount": "3",
+      "reason": "susp"
+    },
+    {
+      "id": "03c08700-3ba6-4639-9083-19315c8b29c9",
+      "userId": "91aa3616-7a67-4e1b-81e4-b38b7473dbba",
+      "searchDate": "2025-11-04 12:26:58.302",
+      "cameraCount": "2135",
+      "reason": "Maynard PC for Domestic"
+    },
+    {
+      "id": "680c88b5-e33f-4dfa-ad7e-08439a998b17",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-04 12:27:46.585",
+      "cameraCount": "2135",
+      "reason": "maynard bolo"
+    },
+    {
+      "id": "c8515df6-57d9-4267-8a01-3c8a868fcf92",
+      "userId": "91aa3616-7a67-4e1b-81e4-b38b7473dbba",
+      "searchDate": "2025-11-04 12:28:09.045",
+      "cameraCount": "2135",
+      "reason": "maynard"
+    },
+    {
+      "id": "011f1fc1-0bd1-4ff0-97bf-06852d743c46",
+      "userId": "7997715f-d0ad-405e-87e2-6f7fe5705831",
+      "searchDate": "2025-11-04 18:52:01.017",
+      "cameraCount": "2138",
+      "reason": "bolo"
+    },
+    {
+      "id": "ec7f496b-82c9-4b7c-8cbb-16a937af570f",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-04 18:55:20.493",
+      "cameraCount": "2138",
+      "reason": "bolo"
+    },
+    {
+      "id": "535a8a68-dda3-477d-8100-c38290ae6e85",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-04 19:27:46.448",
+      "cameraCount": "2138",
+      "reason": "stolen MV"
+    },
+    {
+      "id": "8655137e-fbd2-4d16-9d1b-abe5181281b4",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-05 12:42:18.448",
+      "cameraCount": "2138",
+      "reason": "illegal dumping"
+    },
+    {
+      "id": "29f6fac7-1435-4010-bb00-786b5f8877bd",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-05 15:26:34.238",
+      "cameraCount": "2138",
+      "reason": "illegal dumping"
+    },
+    {
+      "id": "0b7f432f-ea46-4493-9d42-c6bd2abbfe9f",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-05 15:47:08.390",
+      "cameraCount": "2139",
+      "reason": "bolo"
+    },
+    {
+      "id": "a4513580-5050-4704-b422-239961a57065",
+      "userId": "7997715f-d0ad-405e-87e2-6f7fe5705831",
+      "searchDate": "2025-11-05 16:03:45.505",
+      "cameraCount": "2140",
+      "reason": "test"
+    },
+    {
+      "id": "1e01abda-cc4a-4ef4-9ef8-75da65bb872e",
+      "userId": "7997715f-d0ad-405e-87e2-6f7fe5705831",
+      "searchDate": "2025-11-05 16:03:58.962",
+      "cameraCount": "2140",
+      "reason": "bolo"
+    },
+    {
+      "id": "4b051e35-5603-4582-9daa-b783abb5ca18",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-06 17:50:25.347",
+      "cameraCount": "2135",
+      "reason": "johnson way"
+    },
+    {
+      "id": "4509ea27-c995-44c5-97b9-5d9dcc288c5e",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-10 18:54:10.268",
+      "cameraCount": "3",
+      "reason": "Aubuchon theft"
+    },
+    {
+      "id": "1a40e598-3c08-4741-b122-da2ad157706f",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-12 14:13:26.098",
+      "cameraCount": "1856",
+      "reason": "Rockland"
+    },
+    {
+      "id": "662d7809-e1bd-453a-9e76-a23471441ec7",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-12 14:51:01.739",
+      "cameraCount": "2139",
+      "reason": "rockland shooting"
+    },
+    {
+      "id": "edea3255-7138-4309-af4b-f5d9ac84898e",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-12 15:43:39.954",
+      "cameraCount": "2139",
+      "reason": "rockland shooting"
+    },
+    {
+      "id": "496b22d5-cc06-4837-a137-486cffdfdf29",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-16 13:24:13.436",
+      "cameraCount": "3",
+      "reason": "maynard h/r"
+    },
+    {
+      "id": "536dde07-e5a5-45bb-96ed-9c2c18ab4b5e",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-18 01:21:23.919",
+      "cameraCount": "1837",
+      "reason": "Shaws theft"
+    },
+    {
+      "id": "c699ab27-a52c-47e4-a5cb-0c2ce41476c6",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-18 11:57:29.455",
+      "cameraCount": "3",
+      "reason": "shaw's"
+    },
+    {
+      "id": "38676869-df56-4be7-9eb7-c48bc5ed25fd",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-18 12:02:12.044",
+      "cameraCount": "2123",
+      "reason": "shaw's"
+    },
+    {
+      "id": "c226a944-d628-43d5-bd40-6b44fdd12435",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-18 12:32:40.811",
+      "cameraCount": "3",
+      "reason": "shaws"
+    },
+    {
+      "id": "b6924c3e-935d-4940-b3bf-eb2a10353028",
+      "userId": "7997715f-d0ad-405e-87e2-6f7fe5705831",
+      "searchDate": "2025-11-22 17:54:18.126",
+      "cameraCount": "2142",
+      "reason": "bolo"
+    },
+    {
+      "id": "2e2abd02-bfa0-4bd0-868f-5e19705ffd83",
+      "userId": "7997715f-d0ad-405e-87e2-6f7fe5705831",
+      "searchDate": "2025-11-22 18:07:31.971",
+      "cameraCount": "2142",
+      "reason": "bolo"
+    },
+    {
+      "id": "684d07cb-f98d-4cc7-94ad-703d4c6fdb8b",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-22 18:36:08.421",
+      "cameraCount": "2142",
+      "reason": "stolen dirt bikes"
+    },
+    {
+      "id": "bd342ecf-ac3d-40f7-8bf1-a428a681f847",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-22 18:52:02.973",
+      "cameraCount": "2142",
+      "reason": "stolen mc"
+    },
+    {
+      "id": "773b1a51-38be-4586-8efd-7157a5326c09",
+      "userId": "0e86469a-7876-4d2c-b260-dd4ab00ddc0c",
+      "searchDate": "2025-11-22 19:00:11.584",
+      "cameraCount": "2142",
+      "reason": "w view damage"
+    }
+  ],
+  "reason_categories": {
+    "with_case_number": 0,
+    "bolo_generic": 7,
+    "test_or_training": 1,
+    "vague_or_missing": 0,
+    "specific_crime": 11,
+    "assist_other_agency": 0,
+    "location_based": 9
+  }
+}

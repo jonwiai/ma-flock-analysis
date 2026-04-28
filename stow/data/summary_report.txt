@@ -1,0 +1,172 @@
+======================================================================
+STOW MA PD - FLOCK RECORDS REQUEST ANALYSIS
+Generated: 2026-04-27 19:49:24
+Source: Records Request Stow MA PD 6.25.25.pdf
+Total Pages: 23922
+======================================================================
+
+DOCUMENT COMPOSITION
+----------------------------------------
+  AGENCY_LIST               22908 pages  (pages 141-23896)
+  CONTRACT/BILLING             22 pages  (pages 18-502)
+  EMAIL                       106 pages  (pages 23-23344)
+  GRANT_REPORT                 27 pages  (pages 6-23915)
+  NETWORK_SHARING               4 pages  (pages 314-23901)
+  POLICY                        5 pages  (pages 1-5)
+  SEARCH_AUDIT                496 pages  (pages 14-23911)
+
+  CLASSIFIED TOTAL          23568 pages
+  UNCLASSIFIED                354 pages
+
+KEYWORD FREQUENCY
+----------------------------------------
+  stolen                    292084 occurrences (23388 pages)
+  warrant                   114109 occurrences (22276 pages)
+  BOLO                      26477 occurrences (12546 pages)
+  missing person            24821 occurrences (12214 pages)
+  LPR                       10622 occurrences (6408 pages)
+  alert                      3913 occurrences (2462 pages)
+  case number                1795 occurrences (1243 pages)
+  ice                        1616 occurrences (1238 pages)
+  amber alert                1402 occurrences (841 pages)
+  silver alert               1037 occurrences (737 pages)
+  surveillance                914 occurrences (700 pages)
+  immigration                 810 occurrences (573 pages)
+  NCIC                        679 occurrences (483 pages)
+  license plate               638 occurrences (483 pages)
+  hot list                    477 occurrences (292 pages)
+  camera                      244 occurrences (160 pages)
+  audit                       209 occurrences (134 pages)
+  ALPR                        156 occurrences (87 pages)
+  probable cause              109 occurrences (74 pages)
+  delete                       49 occurrences (24 pages)
+  privacy                      45 occurrences (33 pages)
+  Falcon                       41 occurrences (40 pages)
+  protest                      40 occurrences (27 pages)
+  transparency                 35 occurrences (18 pages)
+  retention                    31 occurrences (29 pages)
+  reasonable suspicion         24 occurrences (15 pages)
+  CJIS                          7 occurrences (7 pages)
+  geofence                      4 occurrences (2 pages)
+  public records                4 occurrences (2 pages)
+  third party                   2 occurrences (2 pages)
+
+EMAIL COMMUNICATIONS
+----------------------------------------
+  Total email pages detected: 307
+
+  Top Senders:
+    Sent:: 140
+    Emmie Smith <emmie.smith@flocksafety.com>: 63
+    hotlist=flocksafety.com@mail.flocksafety.com on behalf of Fl: 36
+    Chief Michael Sallese [policechief@stow-ma.gov]: 18
+    Joan Biebel <joan.biebel@flocksafety.com>: 12
+    Phoenix Dwyer <pdwyer@stow-ma.gov>: 5
+    Amanda Blasko <ablasko@ncja.org>: 4
+    Flock Safety Support <support@flocksafety.com>: 4
+    Chief Michael Sallese <policechief@stow-ma.gov>: 3
+    Billing Team <billing@flocksafety.com>: 3
+    masschiefs@memberclicks-mail.net on behalf of info@masschief: 3
+    masschiefs@memberclicks-mail.net on behalf of MA Chiefs of P: 2
+    Peter Norberg <peter.norberg@flocksafety.com>: 2
+    Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Excha: 2
+    Garvey, Allison C. (OGR) <Allison.C.Garvey@mass.gov>: 2
+
+  Top Subjects:
+    Re: MA - Stow PD - Please confirm the Key Admin: 50
+    Attachments:: 41
+    Flock Safety Daily Digest <digest@flocksafety.com>: 29
+    Re: Flock Safety Follow Up: 19
+    MA - 25173 Stolen Vehicle: 14
+    RE: Flock Safety Follow Up: 11
+    MA - Stow PD - Please confirm the Key Admin: 9
+    Flock Safety <support@flocksafety.com>: 9
+    Chief Michael Sallese: 8
+    Myron Maret <myron.maret@flocksafety.com>: 6
+    OH - JTD2326 Sex Offender: 6
+    Joan Biebel <joan.biebel@flocksafety.com>: 6
+    Dan DelGrosso <dan.delgrosso@flocksafety.com>: 5
+    Emmie Smith <emmie.smith@flocksafety.com>: 5
+    Phoenix Dwyer: 5
+
+LICENSE PLATE SEARCHES
+----------------------------------------
+  Total search records found: 1235944
+
+  Search Reasons:
+    7/17/2024,: 13290
+    1/1/2025,: 7662
+    7/1/2024,: 7046
+    3/31/2025,: 6930
+    6/30/2024,: 6807
+    12/31/2024,: 6619
+    6/25/2024,: 6579
+    12/17/2024,: 6337
+    12/16/2024,: 6312
+    12/30/2024,: 6311
+    12/10/2024,: 6261
+    11/6/2024,: 6221
+    11/11/2024,: 6173
+    10/21/2024,: 6157
+    10/22/2024,: 6131
+    11/12/2024,: 6103
+    7/30/2024,: 6003
+    9/30/2024,: 5957
+    12/23/2024,: 5936
+    12/15/2024,: 5880
+
+
+KEY AREAS FOR CIVIC REVIEW
+========================================
+
+  Surveillance mentions:
+    Count: 914
+    Pages: 19-20, 110, 535, 539-540, 570, 589, 622-623, 654, 663, 667-668
+
+  Protest-related content:
+    Count: 40
+    Pages: 19-20, 110, 2196, 2204-2205, 7284, 7838-7839, 7842, 7844, 13882, 14512
+
+  Immigration-related content:
+    Count: 810
+    Pages: 3-4, 164, 549, 666, 680, 764, 811-813, 843, 881, 954
+
+  Privacy mentions:
+    Count: 45
+    Pages: 9, 22, 157-159, 189, 243, 245, 251, 266, 469, 787
+
+  Data sharing references: NOT FOUND
+
+  Third-party access:
+    Count: 2
+    Pages: 5, 158
+
+  Data retention policies:
+    Count: 31
+    Pages: 4, 8, 159, 375, 379, 387, 391, 396, 400, 404
+
+  Audit references:
+    Count: 209
+    Pages: 125, 539, 1011, 1729-1740, 2032, 2034-2035, 2041-2042, 2044, 2046, 2052-2053
+
+  Civil rights mentions:
+    Count: 1
+    Pages: 164
+
+  Civil liberties mentions:
+    Count: 1
+    Pages: 158
+
+  Geofencing:
+    Count: 4
+    Pages: 10977, 11185
+
+  Dragnet surveillance: NOT FOUND
+
+  Mass surveillance: NOT FOUND
+
+  First Amendment: NOT FOUND
+
+  Fourth Amendment:
+    Count: 1
+    Pages: 158
