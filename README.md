@@ -9,7 +9,7 @@ Public records analyses of Flock Safety ALPR (Automated License Plate Reader) de
 | Town | Population | Cameras | Report |
 |---|---|---|---|
 | **Stow** | ~7,000 | 3 | [Full Analysis →](stow/) |
-| **Littleton** | ~10,000 | TBD | *Coming soon* |
+| **Littleton** | ~10,000 | 5 | [Full Analysis →](littleton/) |
 
 ---
 
